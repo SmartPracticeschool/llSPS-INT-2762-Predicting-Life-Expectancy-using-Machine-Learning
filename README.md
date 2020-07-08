@@ -36,6 +36,7 @@ Technical Requirements:
 
 Software Requirements:
 
+
 1.Python IDE
 
 2.Excel Spreadsheet
@@ -45,3 +46,15 @@ Software Requirements:
 4.IBM Watson
 
 5.Node-Red
+
+
+Project Demonstration Video Link:
+https://youtu.be/1giSiDW7ZbQ
+
+
+Feedback Video Link:
+https://youtu.be/qjSvwx6tb2c
+
+
+
+
