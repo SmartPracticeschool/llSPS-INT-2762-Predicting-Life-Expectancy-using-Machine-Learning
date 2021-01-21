@@ -48,13 +48,5 @@ Software Requirements:
 5.Node-Red
 
 
-Project Demonstration Video Link:
-https://youtu.be/1giSiDW7ZbQ
-
-
-Feedback Video Link:
-https://youtu.be/qjSvwx6tb2c
-
-
 
 
